@@ -1,6 +1,7 @@
 # DSFrame2D
 This is a desktop application for analysing 2D framed structures under static loading and calculating mode shapes.
 App download: https://sourceforge.net/projects/dsframe2d/
+
 It is coupled with an easy-to-use GUI that provides the possibility to design the structure very fast.  
 It calculates reaction forces, diagrams of axial and shear forces, as well as, diagrams of bending moments. 
 Moreover, it calculates the mode shapes of the structure using various methods and it will be cabable of performing dynamic analysis soon.  
